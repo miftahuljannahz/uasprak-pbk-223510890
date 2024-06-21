@@ -1,0 +1,10 @@
+body {
+    background-image: url('https://i.pinimg.com/736x/7f/0d/10/7f0d10e28387eb68f8bbdd67d3baf094.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-color 0.5s ease;
+    opacity: 0.9;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('https://i.pinimg.com/736x/7f/0d/10/7f0d10e28387eb68f8bbdd67d3baf094.jpg');
+  }
+  
