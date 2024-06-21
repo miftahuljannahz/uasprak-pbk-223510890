@@ -37,7 +37,7 @@ export default {
         { id: 2, name: 'Tugas 2 - Web Font Generator', url: 'https://mita-project-event.vercel.app/' },
         { id: 3, name: 'Tugas 3 - To Do List', url: 'https://mita-project-todocrud.vercel.app/' },
         { id: 4, name: 'Tugas 4 - Emit', url: 'https://tugas4-pbk-223510890.vercel.app/' },
-        { id: 5, name: 'Tugas 5 - Toko Online & Quasar', url: 'https://tugas5-pbk-223510890-5z60u3v7j-miftahuljannahzs-projects.vercel.app/' },
+        { id: 5, name: 'Tugas 5 - Toko Online & Quasar', url: 'https://tugas5-pbk-223510890.vercel.app/' },
         { id: 6, name: 'Tugas 6 - Artikel', url: 'https://tugas6-pbk-223510890.vercel.app/' },
         { id: 7, name: 'Tugas 7 - To Do List & Pinia', url: 'https://tugas7-pbk-223510890.vercel.app/' },
       ],
